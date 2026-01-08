@@ -17,3 +17,12 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/berawan.png
+    - assets/bus.png
+    - assets/food.png
+    - assets/hujan.png
+    - assets/koper.png
+    - assets/koran.png
+    - assets/matahari.png
+    - assets/teropong.png
